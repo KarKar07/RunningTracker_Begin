@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Runner</string>
+    <string name="name">Беговой трекер</string>
+    <string name="start">Начать пробежку</string>
+    <string name="history">История</string>
+    <string name="statistic">Статистика</string>
+    <string name="kilometr">0.00 км</string>
+    <string name="Start">Старт</string>
+    <string name="fixer">Настройки</string>
+    <string name="kilometrs">Километры</string>
+    <string name="mili">Мили</string>
+    <string name="keep">Сохранить</string>
+    <string name="kilo">Километры</string>
+    <string name="mi">Мили</string>
+    <string name="ke">Сохранить</string>
+    <string name="week">Неделя</string>
+    <string name="mounth">Месяц</string>
+    <string name="year">Год</string>
+</resources>
