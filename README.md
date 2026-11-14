@@ -1,4 +1,4 @@
-# RunningTracker_Begin 🏃
+# RunningTracker_Begin 
 
 Начальная версия Android-приложения **«Runner» — беговой трекер**.
 
@@ -60,6 +60,3 @@ RunningTracker_Begin/
 4. Сохранять настройки пользователя.
 5. Доработать дизайн интерфейса.
 
-## Автор
-
-[KarKar07](https://github.com/KarKar07)
